@@ -6,7 +6,7 @@
 
 ---
 
-# 🌸 About Me 💖
+# 🌸 About Me 
 
 🎀 I'm **Waniya Khan**, an **Artificial Intelligence Student**
 💻 Passionate about coding and building real-world projects
@@ -35,7 +35,7 @@
 
 ---
 
-# 📌 Projects 🌷✨
+# 📌 Projects 
 
 ### 🖌️ DoodleDesk
 A beginner-friendly drawing application built using Qt with brush, eraser, and ruler features 🎨
@@ -52,7 +52,7 @@ AI-based security middleware that detects and blocks malicious prompts 🛡️
 
 ---
 
-# 📊 GitHub Stats 💖
+# 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waniyaa-11&show_icons=true&theme=radical&title_color=ff69b4" height="160"/>
@@ -61,14 +61,14 @@ AI-based security middleware that detects and blocks malicious prompts 🛡️
 
 ---
 
-# 📫 Connect With Me 💌
+# 📫 Connect With Me
 
 - 🔗 LinkedIn: [waniya-khan-774160379](https://www.linkedin.com/in/waniya-khan-774160379)
 - 💻 GitHub: [waniyaa-11](https://github.com/waniyaa-11)
 
 ---
 
-# ⚡ Fun Fact 🌸✨
+# ⚡ Fun Fact 
 
 I enjoy turning ideas into real-world applications and learning new technologies every day 🚀
 
