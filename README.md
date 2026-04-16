@@ -1,16 +1,54 @@
-## Hi there 👋
+# 🌸 Hi, I'm Waniya Khan 🎀
 
-<!--
-**waniyaa-11/waniyaa-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      (\_/)
+      (•.•) 💖
+     / >🌸   coding cutie
 
-Here are some ideas to get you started:
+✨ Artificial Intelligence Student  
+💻 Future Developer in the making  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💖 About Me
+- 🎓 Artificial Intelligence Student  
+- 💡 Interested in AI, Security & Creative Coding  
+- 🌱 Always learning and improving my coding skills  
+
+---
+
+## 🛠️ Tech Stack 💻✨
+- 💗 **Languages:** C++, Python, SQL  
+- 🎀 **Tools & Frameworks:** Qt, VS Code, Git, GitHub  
+- 🤖 **AI/ML:** Scikit-learn, Pandas, NumPy  
+
+---
+
+## 📌 Projects 🌷
+
+### 🖌️ DoodleDesk
+A beginner-friendly drawing application built using Qt with features like brush, eraser, and ruler.  
+
+### 📰 Fake News Detection
+Classifies news articles as real or fake using machine learning models.  
+
+### 🔐 PromptShield AI
+A middleware security system designed to detect and block malicious AI prompts.  
+
+---
+
+## 📫 Connect With Me 💌
+- 🔗 LinkedIn: www.linkedin.com/in/waniya-khan-774160379  
+- 💻 GitHub: https://github.com/waniyaa-11  
+
+---
+
+## ⚡ Fun Fact 🌸
+I enjoy turning ideas into real-world applications and learning new technologies every day 🚀  
+
+---
+
+🌷✨ pixel vibes ✨🌷
+
+[▓▓] [▓▓] [▓▓]  
+[▓🌸▓] [▓💖▓]  
+[▓▓] [▓▓] [▓▓]  
