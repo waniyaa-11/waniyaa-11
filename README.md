@@ -1,14 +1,14 @@
 <!-- 🌸 WANIYA KHAN GITHUB README 🌸 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=60&lines=Hi!+I'm+Waniya+Khan+%F0%9F%92%96;Artificial+Intelligence+Student+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+SQL+Learner+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+%F0%9F%8C%B1%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=60&lines=Hi!+I'm+Waniya+%F0%9F%92%96;Artificial+Intelligence+Student+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+SQL+Learner+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+%F0%9F%8C%B1%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
 
 # 🌸 About Me 
 
-🎀 I'm **Waniya Khan**, an **Artificial Intelligence Student**
+🎀 I'm **Waniya**, an **Artificial Intelligence Student**
 💻 Passionate about coding and building real-world projects
 🌱 Always learning and improving my coding skills
 💡 Interested in Artificial Intelligence and software development
