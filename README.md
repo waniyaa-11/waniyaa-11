@@ -12,10 +12,9 @@
 
 # 🌸 About Me 💖
 
-🎀 I'm **Waniya Khan**, an **Artificial Intelligence Student**  
-💻 Passionate about coding and building real-world projects  
-🌱 Always learning and improving my coding skills  
-💡 Interested in AI and software development  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+Student+🎓;C%2B%2B+%7C+Python+%7C+SQL+Learner+💻;Passionate+about+AI+%26+Coding+🤖;Always+learning+and+improving+🌱&center=true&width=900&height=50&font=Fira%20Code&pause=1000&color=FF69B4&vCenter=true" />
+</p> 
 
 ---
 
