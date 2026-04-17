@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=60&lines=Hi!+I'm+Waniya+%F0%9F%92%96;Artificial+Intelligence+Student+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+SQL+Learner+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+%F0%9F%8C%B1%E2%9C%A8" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://yourusername.github.io/my-animations/pixel_hi_card.html" 
-       width="340" height="320"/>
-</p>
 ---
 
 # 🌸 About Me 
